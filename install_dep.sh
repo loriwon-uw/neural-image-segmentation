@@ -8,6 +8,7 @@ pip install fil-finder
 pip install Pillow
 pip install PyQt6
 pip install torch
+pip install torchvision
 pip install pytorch-lightning
 pip install pyqtgraph
 pip install PyQt6-Charts
